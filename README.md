@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi there, I'm Asritha Kappa  
 
-<!--
-**Asritha152/Asritha152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **MERN Developer** | 🤖 **AI/ML Enthusiast** | ☁️ **Cloud Explorer**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🌱 Currently learning **Machine Learning** and **AI**  
+- 🔬 Trying to build projects on top of **AI/ML**
+- 💻 Experienced in **MERN stack development** (MongoDB, Express.js, React, Node.js)  
+- ☁️ Passionate about **Cloud technologies** and leveraging them for scalable solutions  
+- 💡 Always curious to learn and experiment with new technologies  
+
+---
+
+### 🛠 Tech Stack
+- **Frontend:** React.js, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express.js, REST APIs  
+- **Database:** MongoDB, MySQL  
+- **AI/ML:** Python, scikit-learn, TensorFlow, PyTorch, LangChain  
+- **Cloud & Tools:** Git, GitHub, Docker, Postman, Google Cloud, AWS (learning)  
+
+---
+
+### 📫 Connect with Me
+- 📧 Email: kappaasritha@gmail.com  
+
+---
+✨ *Passionate about building, learning, and contributing to open-source!*  
