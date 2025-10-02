@@ -18,7 +18,7 @@
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Database:** MongoDB, MySQL  
 - **AI/ML:** Python, scikit-learn, TensorFlow, PyTorch, LangChain  
-- **Cloud & Tools:** Git, GitHub, Docker, Postman, Google Cloud, AWS (learning)  
+- **Cloud & Tools:** Git, GitHub, Docker, Postman, AWS (learning)  
 
 ---
 
